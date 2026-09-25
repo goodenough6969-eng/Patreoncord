@@ -1,0 +1,10 @@
+{
+  "name": "patreoncord-server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node watch.mjs",
+    "test": "node selftest.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

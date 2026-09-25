@@ -1,0 +1,12 @@
+{
+  "campaignId": "9839843",
+  "collectionId": "2374997",
+  "onlyReZero": true,
+  "template": {
+    "useEmbed": true,
+    "content": "@everyone",
+    "title": "{title}",
+    "description": ""
+  },
+  "displayName": "Patreoncord"
+}
